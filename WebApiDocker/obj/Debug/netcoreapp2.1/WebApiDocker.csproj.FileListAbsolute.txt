@@ -1,0 +1,15 @@
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.csproj.CoreCompileInputs.cache
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.AssemblyInfoInputs.cache
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.AssemblyInfo.cs
+C:\MyWorkItem\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.deps.json
+C:\MyWorkItem\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.runtimeconfig.json
+C:\MyWorkItem\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.runtimeconfig.dev.json
+C:\MyWorkItem\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.dll
+C:\MyWorkItem\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.pdb
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.RazorAssemblyInfo.cache
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.RazorAssemblyInfo.cs
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.RazorTargetAssemblyInfo.cache
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.dll
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.pdb
+C:\MyWorkItem\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.csprojAssemblyReference.cache
